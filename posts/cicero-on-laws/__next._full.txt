@@ -1,0 +1,59 @@
+1:"$Sreact.fragment"
+2:I[15290,["/_next/static/chunks/0bycx8kp7uj-8.js","/_next/static/chunks/075_rny0jh-6n.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ThemeProvider"]
+3:I[74038,["/_next/static/chunks/0bycx8kp7uj-8.js","/_next/static/chunks/075_rny0jh-6n.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"BackgroundProvider"]
+4:I[14447,["/_next/static/chunks/0bycx8kp7uj-8.js","/_next/static/chunks/075_rny0jh-6n.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MusicProvider"]
+5:I[65673,["/_next/static/chunks/0bycx8kp7uj-8.js","/_next/static/chunks/075_rny0jh-6n.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ToastProvider"]
+6:I[22843,["/_next/static/chunks/0bycx8kp7uj-8.js","/_next/static/chunks/075_rny0jh-6n.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+7:I[58830,["/_next/static/chunks/0bycx8kp7uj-8.js","/_next/static/chunks/075_rny0jh-6n.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+8:I[28613,["/_next/static/chunks/0bycx8kp7uj-8.js","/_next/static/chunks/075_rny0jh-6n.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+9:I[72099,["/_next/static/chunks/0bycx8kp7uj-8.js","/_next/static/chunks/075_rny0jh-6n.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+a:I[3265,["/_next/static/chunks/0bycx8kp7uj-8.js","/_next/static/chunks/075_rny0jh-6n.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+b:I[25664,["/_next/static/chunks/0bycx8kp7uj-8.js","/_next/static/chunks/075_rny0jh-6n.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+c:I[39756,["/_next/static/chunks/0bycx8kp7uj-8.js","/_next/static/chunks/075_rny0jh-6n.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+d:I[37457,["/_next/static/chunks/0bycx8kp7uj-8.js","/_next/static/chunks/075_rny0jh-6n.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+e:I[22016,["/_next/static/chunks/0bycx8kp7uj-8.js","/_next/static/chunks/075_rny0jh-6n.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+10:I[97367,["/_next/static/chunks/0bycx8kp7uj-8.js","/_next/static/chunks/075_rny0jh-6n.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+11:"$Sreact.suspense"
+14:I[97367,["/_next/static/chunks/0bycx8kp7uj-8.js","/_next/static/chunks/075_rny0jh-6n.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+16:I[97367,["/_next/static/chunks/0bycx8kp7uj-8.js","/_next/static/chunks/075_rny0jh-6n.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+18:I[68027,["/_next/static/chunks/0bycx8kp7uj-8.js","/_next/static/chunks/075_rny0jh-6n.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default",1]
+:HL["/_next/static/chunks/066jf0nk75nic.css","style"]
+:HL["/_next/static/chunks/0rv74~bdj3~6r.css","style"]
+:HL["/_next/static/chunks/0l8i24bnn-2_2.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.08e28id.o-okb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f112ed7f0b91582f-s.p.0xqqmnf1a3x8p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","posts","cicero-on-laws",""],"q":"","i":false,"f":[[["",{"children":["posts",{"children":[["slug","cicero-on-laws","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/066jf0nk75nic.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0rv74~bdj3~6r.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/0l8i24bnn-2_2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0bycx8kp7uj-8.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/075_rny0jh-6n.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable noto_serif_sc_44f4bd8a-module__MWcLYW__variable h-full antialiased","suppressHydrationWarning":true,"children":["$","body",null,{"className":"min-h-full flex flex-col","children":["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"children":["$","$L5",null,{"children":[["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}],["$","main",null,{"className":"flex-1 pt-4","children":["$","$Lc",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Ld",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"max-w-xl mx-auto mt-24 px-4 py-12 text-center","children":[["$","h1",null,{"className":"text-6xl font-black text-slate-900 dark:text-white mb-4","children":"404"}],["$","p",null,{"className":"text-slate-500 mb-8","children":"页面不存在"}],["$","$Le",null,{"href":"/","className":"text-indigo-500 font-bold hover:text-indigo-600 transition-colors","children":"← 回到首页"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"w-full border-t border-white/15 dark:border-white/5 glass-card py-8 mt-auto","children":["$","div",null,{"className":"max-w-6xl mx-auto px-4 text-center","children":[["$","div",null,{"className":"flex justify-center gap-6 mb-4 text-sm font-bold text-slate-600 dark:text-slate-400","children":[["$","$Le",null,{"href":"/","className":"hover:text-indigo-500 transition-colors","children":"首页"}],["$","$Le",null,{"href":"/articles/","className":"hover:text-indigo-500 transition-colors","children":"文章"}],["$","$Le",null,{"href":"/feed/","className":"hover:text-indigo-500 transition-colors","children":"RSS"}],["$","$Le",null,{"href":"/friends/","className":"hover:text-indigo-500 transition-colors","children":"友链"}]]}],["$","p",null,{"className":"text-xs text-slate-500 dark:text-slate-500","children":["© ",2026," ","却nuy","· \"风会带来一切的。\""]}],null]}]}]]}]}]}]}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$Lc",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Ld",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$Lc",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Ld",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$Lf",null,["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]]}],{},null,false,null]},null,false,"$@13"]},null,false,"$@13"]},null,false,null],["$","$1","h",{"children":[null,["$","$L14",null,{"children":"$L15"}],["$","div",null,{"hidden":true,"children":["$","$L16",null,{"children":["$","$11",null,{"name":"Next.Metadata","children":"$L17"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$18",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/066jf0nk75nic.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0rv74~bdj3~6r.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/0l8i24bnn-2_2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"8i5pZv705aGhL_HnvE1tx"}
+19:[]
+13:"$W19"
+1a:Te3c,西塞罗的《论法律》是一本需要在安静中慢慢读的书。不是因为它难懂——实际上，它的对话体让阅读体验出奇地流畅——而是因为它提出的问题太根本了。每翻几页，你就不得不停下来想：如果他说的是对的，那我们今天习以为常的那些法律观念，是不是从一开始就建在了错误的地基上？<br>
+</p><p><br>
+<h2>法律的起源不在法典里</h2><br>
+</p><p><br>
+《论法律》第一卷最有冲击力的论点是：真正的法律不是被"制定"出来的，而是被"发现"的。西塞罗说，法律是"最高理性"，植根于自然之中，先于任何成文法和任何国家的存在。这个想法在今天听起来可能有点玄，但他的论证路径其实非常具体。<br>
+</p><p><br>
+他借用斯多葛派的框架：理性是人和神共有的属性。因为人拥有理性，所以人能够理解自然秩序。而法律，就是这种自然理性在人类事务中的表达。所以一部违背自然法的成文法——比如僭主随意颁布的法令——根本就不是真正的"法律"，它只是暴力的伪装。<br>
+</p><p><br>
+这个观点在后来的西方政治思想中产生了深远的影响。从中世纪的经院哲学到近代的自然权利理论，再到二战后对纳粹法律的审判——"恶法非法"还是"恶法亦法"的争论，其思想源头就在西塞罗这里。<br>
+</p><p><br>
+<h2>宗教法的实用主义解读</h2><br>
+</p><p><br>
+第二卷转向宗教法时，西塞罗展现了他务实的一面。他提出了一整套宗教仪式规范，但反复强调核心是"心灵的纯洁远比献祭的铺张更重要"。对他而言，宗教法的主要功能不是取悦神明，而是巩固国家——培养公民的虔诚、维护社会秩序、约束官员行为。<br>
+</p><p><br>
+这是一种高度理性化的公民宗教观。他不信迷信，但尊重传统；不排斥占卜，但清楚地指出占卜在实践中常被用来达到政治目的。这种"我知道它是假的，但我理解它为什么有用"的态度，在今天读来有一种奇异的现代感。<br>
+</p><p><br>
+<h2>"官员是说话的法律"</h2><br>
+</p><p><br>
+第三卷讨论官职法时，西塞罗抛出了全书最精辟的一句话："官员是说话的法律，法律是不说话的官员。"这句话把法治的精髓压缩到了极致——权力必须来源于法律并与之保持一致，否则官员就沦为暴君。<br>
+</p><p><br>
+他对保民官制度的辩证分析尤其精彩。他的兄弟昆图斯代表贵族立场，猛烈抨击保民官制度是"生于动乱、旨在煽动动乱"。而西塞罗的回应更务实：承认它的弊端，但坚持它的必要性——废除它曾引发更大的动荡，所以一个明智的保民官可以成为平民与贵族之间的缓冲。<br>
+</p><p><br>
+两千多年后，我们在讨论权力的制衡、法治的边界、民粹与精英的张力时，讨论的仍然是西塞罗在阿尔皮努姆乡间那些对话中触及的问题。这不是因为他的答案永远正确，而是因为他问对了问题。<br>
+</p><p><br>
+&gt; 法律的生命在于其内在的正义性，而非强制力。一个良好的政体必须能够驯服权力，使其成为公共善的仆人，而非私人野心的工具。<br>
+</p><p><br>
+这大概就是经典的意义：它不提供现成的答案，但提供了一种思考的框架。读完《论法律》，我最大的收获不是记住了西塞罗说了什么，而是开始用他的眼光去看我们身边的法律和政治——然后发现，他注视的那些问题，一个都没走远。f:["$","div",null,{"className":"max-w-3xl mx-auto mt-24 px-4 sm:px-10 py-12","children":["$undefined",["$","header",null,{"className":"mb-8 border-b border-slate-200 dark:border-slate-700 pb-6","children":[["$","h1",null,{"className":"text-3xl md:text-4xl font-black text-slate-900 dark:text-white mb-4","children":"读西塞罗《论法律》：自然法如何在今天回响"}],["$","div",null,{"className":"flex items-center gap-3 flex-wrap","children":[["$","span",null,{"className":"text-sm font-bold text-slate-500","children":"2026.05.24"}],["$","span",null,{"className":"text-sm text-slate-400","children":"12 分钟阅读"}],[["$","span","阅读",{"className":"px-2 py-0.5 bg-indigo-50 dark:bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 text-[10px] font-bold rounded-full","children":["#","阅读"]}],["$","span","哲学",{"className":"px-2 py-0.5 bg-indigo-50 dark:bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 text-[10px] font-bold rounded-full","children":["#","哲学"]}]]]}]]}],["$","article",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$1a"}}],["$","div",null,{"className":"mt-12 text-center","children":["$","$Le",null,{"href":"/","className":"text-sm font-bold text-indigo-500 hover:text-indigo-600 transition-colors","children":"← 返回首页"}]}]]}]
+15:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1b:I[27201,["/_next/static/chunks/0bycx8kp7uj-8.js","/_next/static/chunks/075_rny0jh-6n.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"IconMark"]
+12:null
+17:[["$","title","0",{"children":"读西塞罗《论法律》：自然法如何在今天回响 - 却nuy"}],["$","meta","1",{"name":"description","content":"西塞罗说\"官员是说话的法律，法律是不说话的官员\"。两千年后重读，这句话仍然像一面镜子，照出法治与权力的永恒张力。从自然法到宗教法再到官职法，一部古典著作如何映照今天。"}],["$","link","2",{"rel":"alternate","type":"application/rss+xml","href":"/feed/"}],["$","link","3",{"rel":"icon","href":"/favicon.png"}],["$","link","4",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","$L1b","5",{}]]

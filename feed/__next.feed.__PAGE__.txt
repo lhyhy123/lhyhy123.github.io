@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/0bycx8kp7uj-8.js","/_next/static/chunks/075_rny0jh-6n.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-xl mx-auto mt-24 px-4 py-12 text-center","children":[["$","h1",null,{"className":"text-3xl font-black text-slate-900 dark:text-white mb-6","children":"RSS 订阅"}],["$","div",null,{"className":"p-6 rounded-2xl bg-white/40 dark:bg-slate-800/50 backdrop-blur-md border border-white/40 dark:border-white/10 shadow-lg","children":[["$","code",null,{"className":"block p-4 rounded-xl bg-slate-100 dark:bg-slate-800 text-sm break-all mb-4","children":"https://quenuy.top/rss.xml"}],["$","p",null,{"className":"text-sm text-slate-500","children":"将以上地址复制到任意 RSS 阅读器即可订阅"}]]}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"8i5pZv705aGhL_HnvE1tx"}
+4:null

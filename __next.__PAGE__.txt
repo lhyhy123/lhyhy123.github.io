@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[54523,["/_next/static/chunks/0bycx8kp7uj-8.js","/_next/static/chunks/075_rny0jh-6n.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/088t~3drhkrh~.js"],"default"]
+3:I[97367,["/_next/static/chunks/0bycx8kp7uj-8.js","/_next/static/chunks/075_rny0jh-6n.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"posts":[{"slug":"althusser-philosophy","title":"阿尔都塞相关哲学思想解析","excerpt":"从总问题到认识论断裂，从意识形态批判到症候阅读法——梳理阿尔都塞保卫马克思的理论路径，理解他如何在人本主义泛滥的时代重新确立马克思主义的科学性。","date":"2026-06-12","tags":["哲学","马克思主义"]},{"slug":"cicero-on-laws","title":"读西塞罗《论法律》：自然法如何在今天回响","excerpt":"西塞罗说\"官员是说话的法律，法律是不说话的官员\"。两千年后重读，这句话仍然像一面镜子，照出法治与权力的永恒张力。从自然法到宗教法再到官职法，一部古典著作如何映照今天。","date":"2026-05-24","tags":["阅读","哲学"]}],"postCount":2,"chatterCount":2}],[["$","script","script-0",{"src":"/_next/static/chunks/088t~3drhkrh~.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"8i5pZv705aGhL_HnvE1tx"}
+5:null
