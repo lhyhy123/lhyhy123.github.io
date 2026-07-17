@@ -1,0 +1,37 @@
+1:"$Sreact.fragment"
+2:I[8617,["318","static/chunks/318-e9f3c6a1bbf515d0.js","571","static/chunks/571-bbace6bd219b7ee2.js","177","static/chunks/app/layout-5fb54eb6ad1e0d84.js"],"ThemeProvider"]
+3:I[8492,["318","static/chunks/318-e9f3c6a1bbf515d0.js","571","static/chunks/571-bbace6bd219b7ee2.js","177","static/chunks/app/layout-5fb54eb6ad1e0d84.js"],"BackgroundProvider"]
+4:I[8591,["318","static/chunks/318-e9f3c6a1bbf515d0.js","571","static/chunks/571-bbace6bd219b7ee2.js","177","static/chunks/app/layout-5fb54eb6ad1e0d84.js"],"MusicProvider"]
+5:I[5483,["318","static/chunks/318-e9f3c6a1bbf515d0.js","571","static/chunks/571-bbace6bd219b7ee2.js","177","static/chunks/app/layout-5fb54eb6ad1e0d84.js"],"ToastProvider"]
+6:I[8278,["318","static/chunks/318-e9f3c6a1bbf515d0.js","571","static/chunks/571-bbace6bd219b7ee2.js","177","static/chunks/app/layout-5fb54eb6ad1e0d84.js"],"default"]
+7:I[4136,["318","static/chunks/318-e9f3c6a1bbf515d0.js","571","static/chunks/571-bbace6bd219b7ee2.js","177","static/chunks/app/layout-5fb54eb6ad1e0d84.js"],"default"]
+8:I[2432,["318","static/chunks/318-e9f3c6a1bbf515d0.js","571","static/chunks/571-bbace6bd219b7ee2.js","177","static/chunks/app/layout-5fb54eb6ad1e0d84.js"],"default"]
+9:I[6428,["318","static/chunks/318-e9f3c6a1bbf515d0.js","571","static/chunks/571-bbace6bd219b7ee2.js","177","static/chunks/app/layout-5fb54eb6ad1e0d84.js"],"default"]
+a:I[490,["318","static/chunks/318-e9f3c6a1bbf515d0.js","571","static/chunks/571-bbace6bd219b7ee2.js","177","static/chunks/app/layout-5fb54eb6ad1e0d84.js"],"default"]
+b:I[2389,["318","static/chunks/318-e9f3c6a1bbf515d0.js","571","static/chunks/571-bbace6bd219b7ee2.js","177","static/chunks/app/layout-5fb54eb6ad1e0d84.js"],"default"]
+c:I[7936,["318","static/chunks/318-e9f3c6a1bbf515d0.js","571","static/chunks/571-bbace6bd219b7ee2.js","177","static/chunks/app/layout-5fb54eb6ad1e0d84.js"],"default"]
+d:I[7121,[],""]
+e:I[4581,[],""]
+f:I[8179,["318","static/chunks/318-e9f3c6a1bbf515d0.js","571","static/chunks/571-bbace6bd219b7ee2.js","177","static/chunks/app/layout-5fb54eb6ad1e0d84.js"],"Link"]
+10:I[1304,[],"ClientPageRoot"]
+11:I[3865,["141","static/chunks/app/photowall/page-e77762ed33840220.js"],"default"]
+14:I[484,[],"OutletBoundary"]
+15:"$Sreact.suspense"
+18:I[484,[],"ViewportBoundary"]
+1a:I[484,[],"MetadataBoundary"]
+1c:I[7123,[],"default",1]
+:HL["/_next/static/media/22a5144ee8d83bca-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7d4881bb7e1bf84d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b20daecae68a588f-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/b496025c9cd768cc.css","style"]
+:HL["/_next/static/css/08b72fcdf01f5c67.css","style"]
+:HL["/_next/static/css/cfdce38aa2effcfa.css","style"]
+0:{"P":null,"c":["","photowall",""],"q":"","i":false,"f":[[["",{"children":["photowall",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b496025c9cd768cc.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/08b72fcdf01f5c67.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/cfdce38aa2effcfa.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","className":"__variable_246ccd __variable_c29908 __variable_588cdf h-full antialiased","suppressHydrationWarning":true,"children":["$","body",null,{"className":"min-h-full flex flex-col","children":["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"children":["$","$L5",null,{"children":[["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}],["$","$Lc",null,{}],["$","main",null,{"className":"flex-1 pt-16 pb-24","children":["$","$Ld",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Le",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"max-w-xl mx-auto mt-24 px-4 py-12 text-center","children":[["$","h1",null,{"className":"text-6xl font-black text-slate-900 dark:text-white mb-4","children":"404"}],["$","p",null,{"className":"text-slate-500 mb-8","children":"页面不存在"}],["$","$Lf",null,{"href":"/","className":"text-indigo-500 font-bold hover:text-indigo-600 transition-colors","children":"← 回到首页"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"w-full border-t border-white/15 dark:border-white/5 glass-card py-8 mt-auto lg:pl-[220px] xl:pl-[260px]","children":["$","div",null,{"className":"max-w-6xl mx-auto px-4 text-center","children":[["$","div",null,{"className":"flex justify-center gap-6 mb-4 text-sm font-bold text-slate-600 dark:text-slate-400 flex-wrap","children":[["$","$Lf",null,{"href":"/","className":"hover:text-indigo-500 transition-colors","children":"首页"}],["$","$Lf",null,{"href":"/articles/","className":"hover:text-indigo-500 transition-colors","children":"文章"}],["$","$Lf",null,{"href":"/friends/","className":"hover:text-indigo-500 transition-colors","children":"友链"}],["$","$Lf",null,{"href":"/stuff/","className":"hover:text-indigo-500 transition-colors","children":"杂物"}],["$","$Lf",null,{"href":"/feed/","className":"hover:text-indigo-500 transition-colors","children":"RSS"}]]}],["$","p",null,{"className":"text-xs text-slate-500 dark:text-slate-500","children":["© ",2026," ","却nuy","· \"风会带来一切的。\""]}],null]}]}]]}]}]}]}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$Ld",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Le",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[["$","$L10",null,{"Component":"$11","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@12","$@13"]}}],null,["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}],{},null,false,null]},null,false,"$@17"]},null,false,null],["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$L19"}],["$","div",null,{"hidden":true,"children":["$","$L1a",null,{"children":["$","$15",null,{"name":"Next.Metadata","children":"$L1b"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$1c",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"X70f1PTy_phvlGkrubrxs"}
+1d:[]
+17:"$W1d"
+12:{}
+13:"$0:f:0:1:1:children:1:children:0:props:children:0:props:serverProvidedParams:params"
+19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1e:I[6869,[],"IconMark"]
+16:null
+1b:[["$","title","0",{"children":"却nuy"}],["$","meta","1",{"name":"description","content":"读西塞罗，写代码。没有赋能和闭环，只有一个人慢慢想清楚的东西。"}],["$","link","2",{"rel":"alternate","type":"application/rss+xml","href":"/feed/"}],["$","link","3",{"rel":"icon","href":"/favicon.png"}],["$","link","4",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","$L1e","5",{}]]
