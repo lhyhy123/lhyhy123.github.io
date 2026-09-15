@@ -1,8 +1,5 @@
 1:"$Sreact.fragment"
-2:I[5321,["292","static/chunks/app/articles/page-8572251e4057a311.js"],"default"]
-7:I[8179,["292","static/chunks/app/articles/page-8572251e4057a311.js"],"Link"]
-8:I[484,[],"OutletBoundary"]
-9:"$Sreact.suspense"
+2:I[96086,["/_next/static/chunks/2n2yqcr-25ujw.js","/_next/static/chunks/1-kunrn1dd-61.js","/_next/static/chunks/1mlzka1djuwv1.js","/_next/static/chunks/1hh8huk-7esls.js"],"default"]
 3:T12c1,阿尔都塞的理论工作始于一个危机时刻。苏共二十大对斯大林的全盘否定引发了国际共产主义运动的理论混乱，西欧知识分子纷纷回到青年马克思的人道主义话语中寻找合法性。对阿尔都塞而言，这不是进步，而是倒退——是把马克思主义从科学拉回到意识形态。他的全部努力，可以概括为四个字：**保卫马克思**。
 
 ## 总问题：思想的无意识结构
@@ -72,7 +69,44 @@
 
 > 法律的生命在于其内在的正义性，而非强制力。一个良好的政体必须能够驯服权力，使其成为公共善的仆人，而非私人野心的工具。
 
-这大概就是经典的意义：它不提供现成的答案，但提供了一种思考的框架。读完《论法律》，我最大的收获不是记住了西塞罗说了什么，而是开始用他的眼光去看我们身边的法律和政治——然后发现，他注视的那些问题，一个都没走远。0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-3xl mx-auto mt-24 lg:mt-0 px-4 sm:px-10 py-12","children":[["$","h1",null,{"className":"text-3xl font-black text-slate-900 dark:text-white mb-8 text-center","children":"文章归档"}],["$","$L2",null,{"posts":[{"title":"阿尔都塞相关哲学思想解析","date":"2026-06-12","tags":["哲学","马克思主义"],"excerpt":"从总问题到认识论断裂，从意识形态批判到症候阅读法——梳理阿尔都塞保卫马克思的理论路径，理解他如何在人本主义泛滥的时代重新确立马克思主义的科学性。","read_time":"10 分钟阅读","slug":"althusser-philosophy","body":"$3"},{"title":"读西塞罗《论法律》：自然法如何在今天回响","date":"2026-05-24","tags":["阅读","哲学"],"excerpt":"西塞罗说\"官员是说话的法律，法律是不说话的官员\"。两千年后重读，这句话仍然像一面镜子，照出法治与权力的永恒张力。从自然法到宗教法再到官职法，一部古典著作如何映照今天。","read_time":"12 分钟阅读","slug":"cicero-on-laws","body":"$4"}]}],"$L5"]}],null,"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"X70f1PTy_phvlGkrubrxs"}
-5:["$","div",null,{"className":"text-center mt-8","children":["$","$L7",null,{"href":"/","className":"text-sm font-bold text-indigo-500 hover:text-indigo-600 transition-colors","children":"← 返回首页"}]}]
-6:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
-a:null
+这大概就是经典的意义：它不提供现成的答案，但提供了一种思考的框架。读完《论法律》，我最大的收获不是记住了西塞罗说了什么，而是开始用他的眼光去看我们身边的法律和政治——然后发现，他注视的那些问题，一个都没走远。9:X
+e:X
+e:C
+0:{"buildId":"ToH9QbdF3dLeD7EvAAstB","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-3xl mx-auto mt-24 lg:mt-0 px-4 sm:px-10 py-12","children":[["$","h1",null,{"className":"text-3xl font-black text-slate-900 dark:text-white mb-8 text-center","children":"文章归档"}],["$","$L2",null,{"posts":[{"title":"阿尔都塞相关哲学思想解析","date":"2026-06-12","tags":["哲学","马克思主义"],"excerpt":"从总问题到认识论断裂，从意识形态批判到症候阅读法——梳理阿尔都塞保卫马克思的理论路径，理解他如何在人本主义泛滥的时代重新确立马克思主义的科学性。","read_time":"10 分钟阅读","slug":"althusser-philosophy","body":"$3"},{"title":"读西塞罗《论法律》：自然法如何在今天回响","date":"2026-05-24","tags":["阅读","哲学"],"excerpt":"西塞罗说\"官员是说话的法律，法律是不说话的官员\"。两千年后重读，这句话仍然像一面镜子，照出法治与权力的永恒张力。从自然法到宗教法再到官职法，一部古典著作如何映照今天。","read_time":"12 分钟阅读","slug":"cicero-on-laws","body":"$4"}]}],"$L5"]}],["$L6"],"$L7"]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$9","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$9","varyParams":"$e"},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$9","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
+13:I[15459,["/_next/static/chunks/2n2yqcr-25ujw.js","/_next/static/chunks/1-kunrn1dd-61.js","/_next/static/chunks/1mlzka1djuwv1.js","/_next/static/chunks/1hh8huk-7esls.js"],"Link"]
+14:I[97367,["/_next/static/chunks/2n2yqcr-25ujw.js","/_next/static/chunks/1-kunrn1dd-61.js","/_next/static/chunks/1mlzka1djuwv1.js"],"OutletBoundary"]
+15:"$Sreact.suspense"
+17:I[97367,["/_next/static/chunks/2n2yqcr-25ujw.js","/_next/static/chunks/1-kunrn1dd-61.js","/_next/static/chunks/1mlzka1djuwv1.js"],"ViewportBoundary"]
+18:I[97367,["/_next/static/chunks/2n2yqcr-25ujw.js","/_next/static/chunks/1-kunrn1dd-61.js","/_next/static/chunks/1mlzka1djuwv1.js"],"MetadataBoundary"]
+19:I[27201,["/_next/static/chunks/2n2yqcr-25ujw.js","/_next/static/chunks/1-kunrn1dd-61.js","/_next/static/chunks/1mlzka1djuwv1.js"],"IconMark"]
+1a:I[39756,["/_next/static/chunks/2n2yqcr-25ujw.js","/_next/static/chunks/1-kunrn1dd-61.js","/_next/static/chunks/1mlzka1djuwv1.js"],"default"]
+1b:I[37457,["/_next/static/chunks/2n2yqcr-25ujw.js","/_next/static/chunks/1-kunrn1dd-61.js","/_next/static/chunks/1mlzka1djuwv1.js"],"default"]
+1c:I[15290,["/_next/static/chunks/2n2yqcr-25ujw.js","/_next/static/chunks/1-kunrn1dd-61.js","/_next/static/chunks/1mlzka1djuwv1.js"],"ThemeProvider"]
+1d:I[74038,["/_next/static/chunks/2n2yqcr-25ujw.js","/_next/static/chunks/1-kunrn1dd-61.js","/_next/static/chunks/1mlzka1djuwv1.js"],"BackgroundProvider"]
+1e:I[14447,["/_next/static/chunks/2n2yqcr-25ujw.js","/_next/static/chunks/1-kunrn1dd-61.js","/_next/static/chunks/1mlzka1djuwv1.js"],"MusicProvider"]
+1f:I[65673,["/_next/static/chunks/2n2yqcr-25ujw.js","/_next/static/chunks/1-kunrn1dd-61.js","/_next/static/chunks/1mlzka1djuwv1.js"],"ToastProvider"]
+20:I[22843,["/_next/static/chunks/2n2yqcr-25ujw.js","/_next/static/chunks/1-kunrn1dd-61.js","/_next/static/chunks/1mlzka1djuwv1.js"],"default"]
+21:I[58830,["/_next/static/chunks/2n2yqcr-25ujw.js","/_next/static/chunks/1-kunrn1dd-61.js","/_next/static/chunks/1mlzka1djuwv1.js"],"default"]
+22:I[28613,["/_next/static/chunks/2n2yqcr-25ujw.js","/_next/static/chunks/1-kunrn1dd-61.js","/_next/static/chunks/1mlzka1djuwv1.js"],"default"]
+23:I[72099,["/_next/static/chunks/2n2yqcr-25ujw.js","/_next/static/chunks/1-kunrn1dd-61.js","/_next/static/chunks/1mlzka1djuwv1.js"],"default"]
+24:I[3265,["/_next/static/chunks/2n2yqcr-25ujw.js","/_next/static/chunks/1-kunrn1dd-61.js","/_next/static/chunks/1mlzka1djuwv1.js"],"default"]
+25:I[80790,["/_next/static/chunks/2n2yqcr-25ujw.js","/_next/static/chunks/1-kunrn1dd-61.js","/_next/static/chunks/1mlzka1djuwv1.js"],"default"]
+26:I[25664,["/_next/static/chunks/2n2yqcr-25ujw.js","/_next/static/chunks/1-kunrn1dd-61.js","/_next/static/chunks/1mlzka1djuwv1.js"],"default"]
+:HL["/_next/static/chunks/233p45nuh4m5b.css","style"]
+:HL["/_next/static/chunks/3moox1hq-wqbf.css","style"]
+:HL["/_next/static/chunks/3758lv7wygcyp.css","style"]
+5:["$","div",null,{"className":"text-center mt-8","children":["$","$L13",null,{"href":"/","className":"text-sm font-bold text-indigo-500 hover:text-indigo-600 transition-colors","children":"← 返回首页"}]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/1hh8huk-7esls.js","async":true}]
+7:["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]
+a:["$","$1","h",{"children":[null,["$","$L17",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L18",null,{"children":["$","$15",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"文章归档 - 却nuy"}],["$","meta","1",{"name":"description","content":"读西塞罗，写代码。没有赋能和闭环，只有一个人慢慢想清楚的东西。"}],["$","link","2",{"rel":"alternate","type":"application/rss+xml","href":"/feed/"}],["$","link","3",{"rel":"icon","href":"/favicon.png"}],["$","link","4",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","$L19","5",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+c:["$","$1","c",{"children":[null,["$","$L1a",null,{"parallelRouterKey":"children","template":["$","$L1b",null,{}]}]]}]
+f:["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/233p45nuh4m5b.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/3moox1hq-wqbf.css","precedence":"next"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/3758lv7wygcyp.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/2n2yqcr-25ujw.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/1-kunrn1dd-61.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/1mlzka1djuwv1.js","async":true}]],["$","html",null,{"lang":"zh-CN","className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable noto_serif_sc_44f4bd8a-module__MWcLYW__variable h-full antialiased","suppressHydrationWarning":true,"children":["$","body",null,{"className":"min-h-full flex flex-col","children":["$","$L1c",null,{"children":["$","$L1d",null,{"children":["$","$L1e",null,{"children":["$","$L1f",null,{"children":[["$","$L20",null,{}],["$","$L21",null,{}],["$","$L22",null,{}],["$","$L23",null,{}],["$","$L24",null,{}],["$","$L25",null,{}],["$","$L26",null,{}],["$","main",null,{"className":"flex-1 pt-16 pb-24","children":["$","$L1a",null,{"parallelRouterKey":"children","template":["$","$L1b",null,{}],"notFound":[["$","div",null,{"className":"max-w-xl mx-auto mt-24 px-4 py-12 text-center","children":[["$","h1",null,{"className":"text-6xl font-black text-slate-900 dark:text-white mb-4","children":"404"}],["$","p",null,{"className":"text-slate-500 mb-8","children":"页面不存在"}],["$","$L13",null,{"href":"/","className":"text-indigo-500 font-bold hover:text-indigo-600 transition-colors","children":"← 回到首页"}]]}],[]]}]}],["$","footer",null,{"className":"w-full border-t border-white/15 dark:border-white/5 glass-card py-8 mt-auto lg:pl-[220px] xl:pl-[260px]","children":["$","div",null,{"className":"max-w-6xl mx-auto px-4 text-center","children":[["$","div",null,{"className":"flex justify-center gap-6 mb-4 text-sm font-bold text-slate-600 dark:text-slate-400 flex-wrap","children":[["$","$L13",null,{"href":"/","className":"hover:text-indigo-500 transition-colors","children":"首页"}],["$","$L13",null,{"href":"/articles/","className":"hover:text-indigo-500 transition-colors","children":"文章"}],["$","$L13",null,{"href":"/friends/","className":"hover:text-indigo-500 transition-colors","children":"友链"}],["$","$L13",null,{"href":"/stuff/","className":"hover:text-indigo-500 transition-colors","children":"杂物"}],["$","$L13",null,{"href":"/feed/","className":"hover:text-indigo-500 transition-colors","children":"RSS"}]]}],["$","p",null,{"className":"text-xs text-slate-500 dark:text-slate-500","children":["© ",2026," ","却nuy"," · \"风会带来一切的。\""]}],null]}]}]]}]}]}]}]}]}]]}]
+16:null
+12:true
+9:300
+9:C
+11:0
+b:"$undefined"
+d:"$undefined"
+10:"$undefined"
+8:"$undefined"
